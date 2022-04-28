@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Piyusha Barapatre 1da6a3b3</title>
+<title>Charles Severance - Broken Rock Paper Scissors</title>
 <?php require_once "bootstrap.php"; ?>
 </head>
 <body>
@@ -22,3 +22,4 @@ Attempt to go to
 </p>
 </div>
 </body>
+
